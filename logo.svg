@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 112" role="img" aria-labelledby="title desc">
+  <title id="title">NAWA Creative Media</title>
+  <desc id="desc">NAWA wordmark with Arabic name نوى.</desc>
+  <g fill="#28271F">
+    <text x="0" y="67" font-family="Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="2">NAWA</text>
+    <text x="4" y="94" font-family="Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="4" fill="#8B7657">CREATIVE MEDIA</text>
+  </g>
+  <path d="M328 18v76" stroke="#A17D4F" stroke-width="1.5" opacity=".65"/>
+  <text x="350" y="73" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#8B7657">نوى</text>
+</svg>
